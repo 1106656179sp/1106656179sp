@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi guys, welcome to my profile
+- *I want to train my python, javascript and web skills and become a better programmer*
+- *if you can help me with something im grateful!*
+
 
 <!--
 **1106656179sp/1106656179sp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
